@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/chubaofs/chubaofs-csi.svg?branch=master)](https://travis-ci.org/chubaofs/chubaofs-csi)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHuweicai%2Fchubaofs-csi.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHuweicai%2Fchubaofs-csi?ref=badge_shield)
 
 # ChubaoFS CSI Driver
 
@@ -136,3 +137,7 @@ The field `claimName` refers to the PVC created before.
 ```
 $ kubectl create -f examples/deployment.yaml
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHuweicai%2Fchubaofs-csi.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHuweicai%2Fchubaofs-csi?ref=badge_large)
